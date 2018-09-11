@@ -1232,7 +1232,7 @@ namespace tars
         short       _iUpdateCount;
 
         /**
-         * 多长时间检查一次文件大小
+         * 上一次更新时间戳
          */
         time_t      _lt;
     };
